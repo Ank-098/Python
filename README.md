@@ -41,7 +41,7 @@ The goal of this repository is to strengthen my Python programming skills by sol
 
 ## Tools Used
 
-- Python 3
+- Google Colab
 - VS Code
 - Git & GitHub
 
